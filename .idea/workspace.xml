@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d8365651-84f5-48e9-9993-11ac1545efbd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1XeUos0asjFtxQU1XV1vdwFZyh1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/iftekhar/Desktop/TDD & Junit 5 - Exercises/real-estate-app",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/com/realestateapp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/realestateapp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ApartmentRaterTest$AverageRatingTest.testCalculateAverageRating3">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.realestateapp.App" />
+      <module name="real-estate-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.realestateapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApartmentRaterTest$AverageRatingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="real-estate-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.realestateapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.realestateapp.ApartmentRaterTest" />
+      <option name="MAIN_CLASS_NAME" value="com.realestateapp.ApartmentRaterTest$AverageRatingTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApartmentRaterTest$AverageRatingTest.testCalculateAverageRating2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="real-estate-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.realestateapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.realestateapp.ApartmentRaterTest" />
+      <option name="MAIN_CLASS_NAME" value="com.realestateapp.ApartmentRaterTest$AverageRatingTest" />
+      <option name="METHOD_NAME" value="testCalculateAverageRating2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApartmentRaterTest$AverageRatingTest.testCalculateAverageRating3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="real-estate-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.realestateapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.realestateapp.ApartmentRaterTest" />
+      <option name="MAIN_CLASS_NAME" value="com.realestateapp.ApartmentRaterTest$AverageRatingTest" />
+      <option name="METHOD_NAME" value="testCalculateAverageRating3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApartmentRaterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="real-estate-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.realestateapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.realestateapp" />
+      <option name="MAIN_CLASS_NAME" value="com.realestateapp.ApartmentRaterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ApartmentRaterTest$AverageRatingTest.testCalculateAverageRating3" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.ApartmentRaterTest$AverageRatingTest.testCalculateAverageRating2" />
+        <item itemvalue="JUnit.ApartmentRaterTest$AverageRatingTest" />
+        <item itemvalue="JUnit.ApartmentRaterTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8365651-84f5-48e9-9993-11ac1545efbd" name="Default Changelist" comment="" />
+      <created>1581406232355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581406232355</updated>
+      <workItem from="1581406236718" duration="191000" />
+      <workItem from="1674112390673" duration="5459000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
