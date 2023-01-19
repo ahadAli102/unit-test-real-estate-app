@@ -90,7 +90,7 @@ class ApartmentRaterTest {
         @DisplayName("with null apartments list")
         void testCalculateAverageRating3(){
             List<Apartment> apartments = null;
-            Assertions.assertDoesNotThrow(RuntimeException.class,()-> ApartmentRater.calculateAverageRating(apartments));
+            Assertions.assertDoesNotThrow(()-> ApartmentRater.calculateAverageRating(apartments));
         }
 
         @Test
